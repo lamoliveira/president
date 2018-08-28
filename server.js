@@ -138,7 +138,7 @@ app.post("/api/clearpresident", function (req, res) {
   president = [];
   var president2 = [{
     "name": "Jair Bolsonaro",
-    "photo": 'https://pbs.twimg.com/profile_images/1029052084665163776/nGMfO5t8_400x400.jpg',
+    "photo": 'https://complemento.veja.abril.com.br/brasil/teste-candidatos-presidente/img/JairBolsonaro-200x100.jpg',
     "votes": 1321,
     "scores": [
       1,
@@ -155,7 +155,7 @@ app.post("/api/clearpresident", function (req, res) {
   },
   {
     "name": "Henrique Meirelles",
-    "photo": 'https://pbs.twimg.com/profile_images/970849677645148160/YeWha1ly_400x400.jpg',
+    "photo": 'https://complemento.veja.abril.com.br/brasil/teste-candidatos-presidente/img/HenriqueMeirelles-200x100.jpg',
     "votes": 100,
     "scores": [
       4,
@@ -172,7 +172,7 @@ app.post("/api/clearpresident", function (req, res) {
   },
   {
     "name": "Geraldo Alckmin",
-    "photo": 'https://pbs.twimg.com/profile_images/1027937787197251586/VVm7MU2j_400x400.jpg',
+    "photo": 'https://complemento.veja.abril.com.br/brasil/teste-candidatos-presidente/img/GeraldoAlckmin-200x100.jpg',
     "votes": 101,
     "scores": [
       3,
@@ -189,7 +189,7 @@ app.post("/api/clearpresident", function (req, res) {
   },
   {
     "name": "João Amoedo",
-    "photo": 'https://pbs.twimg.com/profile_images/987045583314673664/8uZ8y-qz_400x400.jpg',
+    "photo": 'https://complemento.veja.abril.com.br/brasil/teste-candidatos-presidente/img/JoaoAmoedo-200x100.jpg',
     "votes": 102,
     "scores": [
       4,
@@ -206,7 +206,7 @@ app.post("/api/clearpresident", function (req, res) {
   },
   {
     "name": "Alvaro Dias",
-    "photo": 'https://pbs.twimg.com/profile_images/937759664967700481/8iIntaFD_400x400.jpg',
+    "photo": 'https://complemento.veja.abril.com.br/brasil/teste-candidatos-presidente/img/AlvaroDias-200x100.jpg',
     "votes": 103,
     "scores": [
       1,
@@ -223,8 +223,8 @@ app.post("/api/clearpresident", function (req, res) {
   },
   {
     "name": "Boulos",
-    "photo": 'https://pbs.twimg.com/profile_images/1016483238259429378/xZF6Af4Z_400x400.jpg',
-    "votes": 3,
+    "photo": 'https://complemento.veja.abril.com.br/brasil/teste-candidatos-presidente/img/GuilhermeBoulos-200x100.jpg',
+    "votes": 2,
     "scores": [
       5,
       1,
